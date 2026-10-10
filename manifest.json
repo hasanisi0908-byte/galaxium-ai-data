@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "branch": "main",
+  "repo": "hasanisi0908-byte/galaxium-ai-data",
+  "updatedAt": "2026-10-10T00:52:54.966Z",
+  "docs": 1688,
+  "tokens": 353737,
+  "shards": [
+    {
+      "file": "train-0000.bin",
+      "size": 353737,
+      "tokens": 353737,
+      "sha256": "6464a692f23744e023a92a2de173fba8e59515ec61711121008839feae1f0e03"
+    }
+  ],
+  "corpusSha256": "564b643d898d2bd00e4a9f5d291fb6e39f0ce046b56ee8088bee704a6e81dfc3"
+}
